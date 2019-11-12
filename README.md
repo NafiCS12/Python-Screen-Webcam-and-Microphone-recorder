@@ -1,7 +1,7 @@
 # Python-Screen-Webcam-and-Microphone-recorder
 
 How To Use
-1)please download and keep the ffmpeg.exe file after you extract to this directory 
+1)please download [https://www.ffmpeg.org/download.html] and keep the ffmpeg.exe file after you extract to this directory 
 
 2)open this directory in cmd
 
