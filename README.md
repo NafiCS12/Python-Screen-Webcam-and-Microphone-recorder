@@ -12,3 +12,4 @@ How To Use
 5)the final output file will be named demo.avi
 
 6)separate audio and video signals will also be generated
+
