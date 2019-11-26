@@ -1,5 +1,7 @@
 # Python-Screen-Webcam-and-Microphone-recorder
 
+A desktop based application aimed at providing Gamers and Teachers the facility to simultaneously capture screen, record the webcam and microphone.
+
 How To Use
 1)please download [https://www.ffmpeg.org/download.html] and keep the ffmpeg.exe file after you extract to this directory 
 
